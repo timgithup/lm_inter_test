@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//base/test_method.py=utf-8
+encoding//data_config/dataconfig.py=utf-8
+encoding//data_config/depend_data.py=utf-8
+encoding//data_config/get_data.py=utf-8
+encoding//main/run_test.py=utf-8
+encoding//unit/common_util.py=utf-8
+encoding//unit/oper_excel.py=utf-8
+encoding//unit/oper_header.py=utf-8
+encoding//unit/oper_json.py=utf-8
+encoding//unit/oper_oracleldb.py=utf-8
+encoding//unit/oper_txt.py=utf-8
+encoding//unit/send_email.py=utf-8
