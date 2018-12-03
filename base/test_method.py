@@ -31,6 +31,8 @@ class Test(unittest.TestCase):
         
         res = self.run.run_main(url, 'POST', data)
         print res
+		
+		print '123'
 #         self.assertEqual(res['usr'], 'test1', '失败')
 #         globals()['usr1'] = res['usr']
      
